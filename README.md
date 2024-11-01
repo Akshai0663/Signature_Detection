@@ -19,7 +19,7 @@ After uploading dataset and labeling the signatures, train model by running:
 ```bash
 python app.py
 ```
-For greater accuracy increase the no of images provided
+For greater accuracy increase the no of images in the dataset.
 ## Test Model
 After model creation, run this:
 ```bash

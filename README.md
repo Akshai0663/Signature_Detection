@@ -14,4 +14,5 @@ In both app.py(train) and test.py(test) label_map is provided. Change the values
 ## Train Model
 After uploading dataset and labeling the signatures, train model by running: 
 ```bash
-pip install -r requirements.txt
+python app.py```
+

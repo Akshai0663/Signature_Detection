@@ -1,8 +1,8 @@
 # Signature_Detection
 
 ## Requirements
-Recommended: Use a virtual environment like conda or python's in-build virtual environment
-Runthis code to install required dependencies:
+Recommended: Use a virtual environment like conda or python's in-build virtual environment.
+Run this code to install required dependencies:
 ```bash
 pip install -r requirements.txt
 ```
